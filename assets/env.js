@@ -1,0 +1,2 @@
+SSID='1z200r4EMrNSm3KhGy1pf-HEZfVjTKo2nfoObguhJveU'
+SNAME=okazaki!A2:K1000
