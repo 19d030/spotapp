@@ -1,2 +1,0 @@
-SSID=1VUFUSOtpcqdtNAqgE5ZaCvogQQuejaIzYBNZgKMQreo
-SNAME=okazaki!A2:K1000
